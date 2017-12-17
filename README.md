@@ -1,24 +1,10 @@
-# README
+# CollabField
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*Refactoring: helpers, partials, concerns, design patterns
+*Testing: TDD/BDD (RSpec & Capybara), Factories (Factory Girl)
 
-Things you may want to cover:
+*Action Cable
 
-* Ruby version
+*Active Job
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*CSS, Bootstrap, JavaScript, jQuery
